@@ -1,4 +1,4 @@
-# Assignment: A3 - Craps Dice Game
+# Assignment: Craps Dice Game
 # Description: Create Craps Dice Game with a money betting system
 # Name: Jerry He
 # Date: June 10, 2021
